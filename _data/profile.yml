@@ -40,7 +40,7 @@ short_bio: >-
   </p>
   <p>
     My works and systems has been applied in billion-scale industrial applications, such as accelerating the training of LLMs with over 100B parameters, 
-    and has been utilized by companies like HUAWEI, ZTE, Alibaba, and BAAI. 
+    and has been utilized by companies like HUAWEI, ZTE, Alibaba. 
     Currently, I am also collaborating with more industrial companies to deploy and further develop these systems, such as ByteDance and Baidu.
   </p>
 
@@ -67,19 +67,19 @@ experience:
   date: 2019 - present
 
 - name: ByteDance, Seed-CV, AI Platform
-  logo: /assets/images/badges/ByteDance.svg
+  logo: /assets/images/badges/bytedance.png
   position: System Research Intern
   date: 2024 - present
 
 - name: Alibaba Cloud, Platform of Artificial Intelligence (PAI)
-  logo: /assets/images/badges/alibaba.png
+  logo: /assets/images/badges/BABA.png
   position: System Research Intern
   date: 2023 - 2024
 
-- name: Beijing Academy of Artificial Intelligence (BAAI)
-  logo: /assets/images/badges/alibaba.png
-  position: System Research Intern
-  date: 2023
+# - name: Beijing Academy of Artificial Intelligence (BAAI)
+#   logo: /assets/images/badges/Baai.png
+#   position: System Research Intern
+#   date: 2023
 
 awards:
 - name: Peking University Merit Student
