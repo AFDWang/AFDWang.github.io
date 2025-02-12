@@ -30,16 +30,18 @@ short_bio: >-
     My research interest primarily lies in <strong>Distributed Deep/Machine Learning (DL/ML) Systems, Infrastructure for Large Language Models (LLMs)</strong>.
     Currently, I am focusing on: (1) Parallelism optimization for LLMs; (2) Efficient long-context training; (3) Multi-task, multi-modality training acceleration; 
     (4) Memory management and communication optimization in distributed systems.
-    Recently, I have also been exploring (1) Diffusion model training and inference optimization, and (2) Post-training and reinforcement learning techniques.
+    Recently, I have also been exploring: (1) Diffusion model training and inference optimization, and (2) Post-training and reinforcement learning techniques.
   </p>
   <p>
     I have published 8 papers in top-tier CCF-A conferences and journals (4 first-authored and 2 second-authored), including ASPLOS, TKDE, ICLR, VLDB, SIGMOD, and SOSP.
     I am the designer, project leader, and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>, 
     an open-source automatic parallel training system optimized for LLMs. 
     Additionally, I am a core developer of <a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Hetu</a>, a high-performance distributed deep learning system. 
+  </p>
+  <p>
     My works and systems has been applied in billion-scale industrial applications, such as accelerating the training of LLMs with over 100B parameters, 
-    and has been adopted by companies like HUAWEI, ZTE, Alibaba, and BAAI. 
-    Currently, I am also collaborating with more companies to deploy and further develop these systems, such as ByteDance and Baidu.
+    and has been utilized by companies like HUAWEI, ZTE, Alibaba, and BAAI. 
+    Currently, I am also collaborating with more industrial companies to deploy and further develop these systems, such as ByteDance and Baidu.
   </p>
 
 portrait_url: /assets/images/photos/portrait-wyj.jpg
@@ -51,23 +53,52 @@ education:
   logo: /assets/images/badges/PKU.png
   position: >- 
     School of Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2021 - present
+    Ph.D. Candidate, advised by Prof.Bin Cui
+  date: 2021 - present
 - name: Peking University
   logo: /assets/images/badges/PKU.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+  position: B.S. in Computer Science and Technology
+  date: 2017 - 2021
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Hetu Team, PKU-DAIR (Data and Intelligence Research Lab), Peking University
+  logo: /assets/images/badges/hetu.png
+  position: System Researcher
+  date: 2019 - present
+
+- name: ByteDance, Seed-CV, AI Platform
+  logo: /assets/images/badges/ByteDance.svg
+  position: System Research Intern
+  date: 2024 - present
+
+- name: Alibaba Cloud, Platform of Artificial Intelligence (PAI)
+  logo: /assets/images/badges/alibaba.png
+  position: System Research Intern
+  date: 2023 - 2024
+
+- name: Beijing Academy of Artificial Intelligence (BAAI)
+  logo: /assets/images/badges/alibaba.png
+  position: System Research Intern
+  date: 2023
 
 awards:
-- name: Award Name 2
+- name: Peking University Merit Student
   date: 2024
-- name: Award Name 1 
+- name: Peking University Xiaomi Scholarship
+  date: 2023
+- name: Peking University Merit Student
+  date: 2023
+- name: Peking University Excellent graduate
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Peking University Second-class Scholarship
+  date: 2020
+- name: Peking University Merit Student
+  date: 2020
+- name: Peking University Golden Arowana Scholarship
+  date: 2019
+- name: Peking University Merit Student
+  date: 2019
+- name: Peking University Founder Scholarship
+  date: 2018
+- name: Peking University Merit Student
+  date: 2018
