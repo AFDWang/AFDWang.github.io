@@ -1,10 +1,10 @@
-primary_name: "Yujie Wang"
-secondary_name: "王驭捷"
+primary_name: "Yujie Wang | 王驭捷"
+# secondary_name: "王驭捷"
 navbar_name: "Yujie Wang"
 
 positions:
-- logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Fourth-year PhD candidate
+- logo: /assets/images/badges/PKU.png  # Logo is optional
+  name: A fourth-year PhD candidate in <a href="https://english.pku.edu.cn/" target="_blank">Peking University (PKU)</a>
 # - name: Position 2 without logo
 
 
@@ -35,16 +35,16 @@ portrait_url: /assets/images/photos/portrait-wyj.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
 - name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/PKU.png
+  position: >- 
+    School of Computer Science <br/>
+    Ph.D. Student
+  date: Sep. 2021 - present
+- name: Peking University
+  logo: /assets/images/badges/PKU.png
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
