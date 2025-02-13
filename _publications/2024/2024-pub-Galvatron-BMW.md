@@ -1,7 +1,7 @@
 ---
 title:          "Improving Automatic Parallel Training via Balanced Memory Workload Optimization"
 selected:       true
-pub:            "<strong>[TKDE 2024]</strong> IEEE Transactions on Knowledge and Data Engineering"
+pub:            "<strong>[TKDE 2024 | First Author]</strong> IEEE Transactions on Knowledge and Data Engineering"
 pub_date:       "2024"
 
 abstract: >-
