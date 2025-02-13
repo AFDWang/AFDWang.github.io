@@ -6,7 +6,7 @@ pub:            "<strong>[JOS 2022 | Second Author]</strong>Journal of Software"
 pub_date:       "2022"
 
 abstract: >-
-  Graph neural networks (GNNs) are gaining attention, but performing efficient large GNN training over GPUs remains a challenge. Traditional methods rely on sparse matrix multiplication, which ignores the sparse distribution of the graph data and ignores the GPU computation and memory characteristics, leading to resource underutilization. Some approaches use graph sampling to reduce iteration costs but sacrifice model quality due to variance. This paper presents a high-performance multi-GPU GNN training framework, exploring GNN partition strategies, graph ordering patterns, and block-sparse-aware optimization methods. 
+  Graph neural networks (GNNs) are gaining attention, but performing efficient large GNN training over GPUs remains a challenge. This work proposes a high-performance GNN training framework for multi-GPUs. We explore different GNN partition strategies for multi-GPUs, and investigate the influence of different graph ordering patterns on the GPU performance during the calculation process of GNNs. Moreover, block-sparsity-aware optimization methods are put forward for GPU memory access. The experiments on four large-scale GNN datasets demonstrate the efficiency of our framework compared to existing system such as DGL.
 cover:          /assets/images/covers/GNN.png
 authors:
   - Xupeng Miao
