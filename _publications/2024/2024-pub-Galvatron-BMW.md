@@ -6,10 +6,10 @@ pub:            "<strong>[TKDE 2024 | First Author]</strong> IEEE Transactions o
 pub_date:       "2024"
 
 abstract: >-
-  Transformer models have emerged as the leading approach for achieving state-of-the-art performance across various application domains, serving as the foundation for advanced large-scale deep learning (DL) models. However, efficiently training these models across multiple GPUs remains a complex challenge due to the abundance of parallelism options. Existing DL systems either require manual efforts to design distributed training plans or limit parallelism combinations to a constrained search space. In this paper, we present Galvatron-BMW, a novel system framework that integrates multiple prevalent parallelism dimensions and automatically identifies the most efficient hybrid parallelism strategy. To effectively navigate this vast search space, we employ a decision tree approach for decomposition and pruning based on intuitive insights. We further utilize a dynamic programming search algorithm to derive the optimal plan. Moreover, to improve resource utilization and enhance system efficiency, we propose a bi-objective optimization workflow that focuses on workload balance. Our evaluations on different Transformer models demonstrate the capabilities of Galvatron-BMW in automating distributed training under varying GPU memory constraints. Across all tested scenarios, Galvatron-BMW consistently achieves superior system throughput, surpassing previous approaches that rely on limited parallelism strategies.
+  Efficiently training Transformer models across multiple GPUs remains a complex challenge due to the abundance of parallelism options. In this paper, we present Galvatron-BMW, a novel system framework that integrates multiple prevalent parallelism dimensions, which not only targets automatic parallelism optimization for large-scale Transformer models training, but also considers the Balancing trade-off between Memory and computation Workloads across devices through a novel bi-objective optimization framework. Experiments demonstrate the efficiency of our system.
 cover:          /assets/images/covers/Galvatron-BMW.png
 authors:
-  - <strong>Yujie Wang</strong>
+  - <strong><u>Yujie Wang</u></strong>
   - Youhe Jiang
   - Xupeng Miao
   - Fangcheng Fu
