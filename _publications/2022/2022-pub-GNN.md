@@ -2,7 +2,7 @@
 title:          "Graph Neural Network Training Acceleration for Multi-GPUs"
 date:           2022-01-30 00:00:00 +0800
 selected:       false
-pub:            "<strong>[JOS 2022 (CCF-A) | Second Author]</strong>Journal of Software"
+pub:            "<strong>[JOS 2022 (CCF-A) | Second Author]</strong> Journal of Software"
 pub_date:       "2022"
 
 abstract: >-
