@@ -1,7 +1,7 @@
 ---
 title:          "Spindle: Efficient Distributed Training of Multi-Task Large Models via Wavefront Scheduling"
 selected:       true
-pub:            "ACM International Conference on Architectural Support for Programming Languages and Operating Systems (<strong>ASPLOS</strong>)"
+pub:            "[<strong>ASPLOS 2025</strong>] ACM International Conference on Architectural Support for Programming Languages and Operating Systems"
 pub_date:       "2025"
 
 abstract: >-
