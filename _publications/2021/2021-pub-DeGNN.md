@@ -1,7 +1,7 @@
 ---
 title:          "DeGNN: Improving Graph Neural Networks with Graph Decomposition"
 selected:       false
-pub:            "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (<strong>SIGKDD</strong>)"
+pub:            "<strong>[SIGKDD 2021]</strong>Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining"
 pub_date:       "2021"
 
 abstract: >-

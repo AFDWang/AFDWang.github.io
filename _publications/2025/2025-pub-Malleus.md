@@ -1,7 +1,7 @@
 ---
 title:          "Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization"
 selected:       false
-pub:            "ACM International Conference on Management of Data (<strong>SIGMOD</strong>)"
+pub:            "<strong>[SIGMOD 2025]</strong> ACM International Conference on Management of Data"
 pub_date:       "2025"
 
 abstract: >-

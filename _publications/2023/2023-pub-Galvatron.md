@@ -1,7 +1,7 @@
 ---
 title:          "Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism"
 selected:       true
-pub:            "Proceedings of the VLDB Endowment (<strong>VLDB</strong>)"
+pub:            "<strong>[VLDB 2023]</strong> Proceedings of the VLDB Endowment"
 pub_date:       "2023"
 
 abstract: >-

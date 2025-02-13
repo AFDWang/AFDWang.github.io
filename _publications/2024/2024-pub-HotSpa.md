@@ -1,7 +1,7 @@
 ---
 title:          "Enabling Parallelism Hot Switching for Efficient Training of Large Language Models"
 selected:       false
-pub:            "Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles (<strong>SOSP</strong>)"
+pub:            "<strong>[SOSP 2024]</strong> Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles"
 pub_date:       "2024"
 
 abstract: >-
