@@ -28,9 +28,9 @@ short_bio: >-
   </p>
   <p>
     My research interest primarily lies in <strong>Distributed Deep/Machine Learning (DL/ML) Systems, Infrastructure for Large Language Models (LLMs)</strong>.
-    Currently, I am focusing on: (1) Parallelism optimization for LLMs; (2) Efficient long-context training; (3) Multi-task, multi-modality training acceleration; 
+    Currently, I am focusing on: (1) Parallelism optimization for LLMs training; (2) Efficient long-context training; (3) Multi-task, multi-modality training acceleration; 
     (4) Memory management and communication optimization in distributed systems.
-    Recently, I have also been exploring: (1) Diffusion model training and inference optimization, and (2) Post-training and reinforcement learning techniques.
+    Recently, I am also exploring: (1) Diffusion model training and inference optimization, and (2) Post-training and reinforcement learning techniques.
   </p>
   <p>
     I have published 9 papers in top-tier CCF-A conferences and journals (4 first-authored and 2 second-authored), including ASPLOS, TKDE, ICLR, VLDB, SOSP, SIGMOD and SIGKDD.
