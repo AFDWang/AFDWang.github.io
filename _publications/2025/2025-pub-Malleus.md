@@ -1,7 +1,7 @@
 ---
 title:          "Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization"
 selected:       false
-pub:            "ACM International Conference on Management of Data (SIGMOD)"
+pub:            "ACM International Conference on Management of Data (<strong>SIGMOD</strong>)"
 pub_date:       "2025"
 
 abstract: >-
@@ -15,7 +15,7 @@ authors:
   - Sheng Lin
   - Xuanyu Wang
   - Jiawen Niu
-  - Yujie Wang
+  - <strong>Yujie Wang</strong>
   - Hailin Zhang
   - Xiaonan Nie
   - Bin Cui
