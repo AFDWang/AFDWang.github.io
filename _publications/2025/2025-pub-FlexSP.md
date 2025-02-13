@@ -1,5 +1,6 @@
 ---
 title:          "FlexSP: Accelerating Large Language Model Training via Flexible Sequence Parallelism"
+date:           2025-01-30 00:00:00 +0800
 selected:       true
 pub:            "<strong>[ASPLOS 2025 | First Author]</strong> ACM International Conference on Architectural Support for Programming Languages and Operating Systems"
 pub_date:       "2025"

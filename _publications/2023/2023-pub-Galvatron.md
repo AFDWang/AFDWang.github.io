@@ -1,5 +1,6 @@
 ---
 title:          "Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism"
+date:           2023-08-30 00:00:00 +0800
 selected:       true
 pub:            "<strong>[VLDB 2023 | Co-First Author]</strong> Proceedings of the VLDB Endowment"
 pub_date:       "2023"
