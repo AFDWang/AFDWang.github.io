@@ -33,7 +33,8 @@ date: 2024-02-13 00:00:00 +0800
             <li>
                 <strong>Agility</strong><br/>
                 Automatically ML pipeline: feature engineering, model selection, hyperparameter search.
-            </li>        
+            </li> 
+        </ol>       
     </p>
     <p>
         We welcome everyone interested in machine learning or graph computing to contribute codes, create issues or pull requests. Please refer to <a href="https://github.com/PKU-DAIR/Hetu/blob/main/CONTRIBUTING.md" target="_blank">Hetu Contribution Guide</a> for more details.
