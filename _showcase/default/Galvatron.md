@@ -10,9 +10,45 @@ date: 2024-02-14 00:00:00 +0800
     <p> 
         <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a> is an automatic distributed training system designed for Transformer models, including Large Language Models (LLMs). It leverages advanced automatic parallelism techniques to deliver exceptional training efficiency. 
         <strong>Key Features</strong>
-        (1) Enhanced Efficiency via Automatic Parallelism
+        <ol>
+            <li>
+                <strong>Enhanced Efficiency via Automatic Parallelism</strong>
+                <ul>
+                    <li>
+                        <strong>Enlarged Parallelism Search Space</strong><br/>
+                        Incorporate multiple popular parallelism dimensions of distributed training, including:
+                        <ul>
+                            <li>DP (Data Parallelism)</li>
+                            <li>SDP (Sharded Data Parallelism, support both ZeRO-2 & ZeRO-3)</li>
+                            <li>PP (Pipeline Parallelism, support both GPipe & Pipedream-flush / 1F1B-flush)</li>
+                            <li>TP (Tensor Parallelism)</li>
+                            <li>CKPT (Activation Checkpointing) as a special parallelism dimension</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Fine-grained Hybrid Parallelism</strong><br/>
+                        For each Transformer layer, support flexible and fine-grained hybrid parallelism strategies, contributing to the enhanced training efficiency.
+                    </li>
+                    <li>
+                        <strong>Efficient Automatic Parallelism Optimization</strong><br/>
+                        For any given Transformer model, automatically and efficiently search for the optimal parallelism strategies, which provides the optimal training efficiency.
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <strong>Versatility</strong><br/>
+                Suitable for a wide range of Transformer architectures, including language models, LLMs, vision models, multi-modality models, etc.
+            </li>
+            <li>
+                <strong>User-Friendly Interface</strong><br/>
+                Easy to use, even for those new to distributed training.
+            </li>
+        </ol>
+        <!-- (1) Enhanced Efficiency via Automatic Parallelism
         - Enlarged Parallelism Search Space
-        Incorporate multiple popular parallelism dimensions of distributed training, including DP (Data Parallelism), SDP (Sharded Data Parallelism, support both ZeRO-2 & ZeRO-3), PP (Pipeline Parallelism, support both GPipe & Pipedream-flush / 1F1B-flush), TP (Tensor Parallelism). Also incorporate CKPT (Activation Checkpointing) as a special parallelism dimension.
+        Incorporate multiple popular parallelism dimensions of distributed training, including DP (Data Parallelism), SDP (Sharded Data Parallelism, support both 
+        ZeRO-2 & ZeRO-3), PP (Pipeline Parallelism, support both GPipe & Pipedream-flush / 1F1B-flush), TP (Tensor Parallelism). Also incorporate CKPT (Activation 
+        Checkpointing) as a special parallelism dimension.
         - Fine-grained Hybrid Parallelism
         For each Transformer layer, support flexible and fine-grained hybrid parallelism strategies, contributing to the enhanced training efficiency.
         - Efficient Automatic Parallelism Optimization
@@ -20,7 +56,7 @@ date: 2024-02-14 00:00:00 +0800
         (2) Versatility
         Suitable for a wide range of Transformer architectures, including language models, LLMs, vision models, multi-modality models, etc.
         (3) User-Friendly Interface
-        Easy to use, even for those new to distributed training.
+        Easy to use, even for those new to distributed training. -->
     </p>
     <p>
         We welcome everyone interested in efficient distributed training techniques and parallelism optimization to use Hetu-Galvatron, and contribute codes, create issues or pull requests to Hetu-Galvatron.
