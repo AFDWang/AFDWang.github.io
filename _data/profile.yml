@@ -65,8 +65,8 @@ experience:
   logo: /assets/images/badges/hetu.png
   position: >- 
     System Researcher <br/>
-    - Project leader, designer and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>,, an open-source LLM automatic parallel training system; <br/>
-    - Core developer of Hetu, a high-performance distributed DL system.
+    - Project leader, designer and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>, an open-source LLM automatic parallel training system; <br/>
+    - Core developer of <a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Hetu</a>, a high-performance distributed DL system.
   date: 2019 - present
 
 # Project leader of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>, an open-source LLM automatic parallel training system; Core developer of <a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Hetu</a>, a a high-performance distributed DL system.
@@ -76,7 +76,7 @@ experience:
   position: >- 
     System Research Intern <br/>
     - Development of scalable and robust LLMs training infrastructure. <br/>
-    - Design and development of FlexSP, an efficient long-context LLM training system.  
+    - Design and development of <a href="https://arxiv.org/abs/2412.01523" target="_blank">FlexSP</a>, a high-performance long-context LLM training system supporting flexible and adaptive sequence parallelism.
   date: 2025 - present
 
 # - Design of efficient long-context LLM training system, FlexSP.
@@ -86,7 +86,7 @@ experience:
   position:  >- 
     System Research Intern <br/>
     - Research on accelerating large-scale multi-task (MT) multi-modality (MM) model training. <br/>
-    - Design and development of Spindle, an efficient large-scale MT MM model training system.
+    - Design and development of <a href="https://arxiv.org/abs/2409.03365" target="_blank">Spindle</a>, an efficient distributed training system for large-scale MT MM model.
   date: 2023 - 2024
 
 # - Design and development of efficient large-scale MT MM model training system, Spindle.
