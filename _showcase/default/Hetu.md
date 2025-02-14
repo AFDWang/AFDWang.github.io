@@ -39,5 +39,5 @@ date: 2024-02-13 00:00:00 +0800
         We welcome everyone interested in machine learning or graph computing to contribute codes, create issues or pull requests. Please refer to <a href="https://github.com/PKU-DAIR/Hetu/blob/main/CONTRIBUTING.md" target="_blank">Hetu Contribution Guide</a> for more details.
     </p>
     <!-- <img data-src="https://api.star-history.com/svg?repos=PKU-DAIR/Hetu&type=Date" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"> -->
-    <p class="card-text"><small><a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Give a star!</a></small></p>
+    <p class="card-text text-right"><a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Give a star!</a></p>
 </div>
