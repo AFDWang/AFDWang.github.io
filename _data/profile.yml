@@ -37,8 +37,8 @@ short_bio: >-
     I am the designer, project leader, and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>, 
     an open-source automatic parallel training system optimized for LLMs. 
     I am also a core developer of <a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Hetu</a>, a high-performance distributed deep learning system. 
-    <a href="{/publications}">(view all <i class="fas fa-angle-double-right"></i>)</a>
-    <a href="{{ 'showcase' | relative_url }}">(view all <i class="fas fa-angle-double-right"></i>)</a>
+    <a href="publications">(view all <i class="fas fa-angle-double-right"></i>)</a>
+    <a href="showcase">(view all <i class="fas fa-angle-double-right"></i>)</a>
   </p>
   <p>
     My works and systems have been applied in billion-scale industrial applications, such as accelerating the training of LLMs with over 100B parameters, 
