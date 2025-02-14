@@ -39,7 +39,7 @@ short_bio: >-
     I am also a core developer of <a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Hetu</a>, a high-performance distributed deep learning system. 
   </p>
   <p>
-    My works and systems has been applied in billion-scale industrial applications, such as accelerating the training of LLMs with over 100B parameters, 
+    My works and systems have been applied in billion-scale industrial applications, such as accelerating the training of LLMs with over 100B parameters, 
     and has been utilized by companies like HUAWEI, ZTE, Alibaba, and etc. 
     Currently, I am also collaborating with more industrial companies to deploy and further develop these systems, such as ByteDance and Baidu.
   </p>

@@ -1,7 +1,7 @@
 ---
 title:          "NetMoE: Accelerating MoE Training through Dynamic Sample Placement"
 date:           2025-01-22 00:00:00 +0800
-selected:       true
+selected:       false
 pub:            "<strong><span style='color: blue'>[ICLR 2025 (Spotlight 5.1%) | Second Author]</span></strong> International Conference on Learning Representations"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
