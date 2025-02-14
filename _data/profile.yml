@@ -22,7 +22,7 @@ orcid: 0009-0000-8375-493X
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    <strong>Education</strong>: I am a Ph.D. student in the School of Computer Science at <a href="https://english.pku.edu.cn/" target="_blank">Peking University (PKU)</a>, 
+    <strong>Education</strong> <br/> I am a Ph.D. student in the School of Computer Science at <a href="https://english.pku.edu.cn/" target="_blank">Peking University (PKU)</a>, 
     where I have been studying since 2021 under the guidance of <a href="https://cuibinpku.github.io/" target="_blank">Prof. Bin Cui</a>.
     I received my Bachelor's degree from Peking University in 2021.
   </p>
