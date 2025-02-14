@@ -36,12 +36,12 @@ date: 2024-02-14 00:00:00 +0800
                 </ul>
             </li>
             <li>
-                <strong>Versatility</strong><br/>
+                <strong>Workload Versatility</strong><br/>
                 Suitable for a wide range of Transformer architectures, including language models, LLMs, vision models, multi-modality models, etc.
             </li>
             <li>
                 <strong>User-Friendly Interface</strong><br/>
-                Easy to use, even for those new to distributed training.
+                Hetu-Galvatron is easy to use, even for those new to distributed training.
             </li>
         </ol>
         <!-- (1) Enhanced Efficiency via Automatic Parallelism
@@ -63,5 +63,5 @@ date: 2024-02-14 00:00:00 +0800
         Read the <a href="https://github.com/PKU-DAIR/Hetu-Galvatron/blob/main/README.md" target="_blank">README</a> and the <a href="https://hetu-galvatron.readthedocs.io/en/latest/" target="_blank">Document</a> of Hetu-Galvatron for detailed usage guidance.
     </p>
     <!-- <img data-src="https://api.star-history.com/svg?repos=PKU-DAIR/Hetu-Galvatron&type=Date" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"> -->
-    <p class="card-text"><small><a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Give a star!</a></small></p>
+    <p class="card-text text-right"><a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Give a star!</a></p>
 </div>
