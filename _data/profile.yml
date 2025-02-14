@@ -34,11 +34,13 @@ short_bio: >-
   </p>
   <p>
     I have published 9 papers in top-tier CCF-A conferences and journals (4 first-authored and 2 second-authored), including ASPLOS, TKDE, VLDB, ICLR, SOSP, SIGMOD, SIGKDD, and etc.
+    <a href="publications">Details of Publications <i class="fas fa-angle-double-right"></i></a>
+  </p>
+  <p>
     I am the designer, project leader, and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>, 
     an open-source automatic parallel training system optimized for LLMs. 
     I am also a core developer of <a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Hetu</a>, a high-performance distributed deep learning system. 
-    <a href="publications">(view all <i class="fas fa-angle-double-right"></i>)</a>
-    <a href="showcase">(view all <i class="fas fa-angle-double-right"></i>)</a>
+    <a href="showcase">Details of System projects <i class="fas fa-angle-double-right"></i></a>
   </p>
   <p>
     My works and systems have been applied in billion-scale industrial applications, such as accelerating the training of LLMs with over 100B parameters, 
