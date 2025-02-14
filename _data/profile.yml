@@ -65,7 +65,7 @@ experience:
   logo: /assets/images/badges/hetu.png
   position: >- 
     System Researcher <br/>
-    - Project leader of Hetu-Galvatron, an open-source LLM automatic parallel training system; <br/>
+    - Project leader, designer and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>,, an open-source LLM automatic parallel training system; <br/>
     - Core developer of Hetu, a high-performance distributed DL system.
   date: 2019 - present
 
@@ -76,16 +76,20 @@ experience:
   position: >- 
     System Research Intern <br/>
     - Development of scalable and robust LLMs training infrastructure. <br/>
-    - Design of efficient long-context LLM training system, FlexSP.
+    - Design and development of FlexSP, an efficient long-context LLM training system.  
   date: 2025 - present
+
+# - Design of efficient long-context LLM training system, FlexSP.
 
 - name: Alibaba Cloud, Platform of Artificial Intelligence (PAI)
   logo: /assets/images/badges/BABA.png
   position:  >- 
     System Research Intern <br/>
     - Research on accelerating large-scale multi-task (MT) multi-modality (MM) model training. <br/>
-    - Design and development of efficient large-scale MT MM model training system, Spindle.
+    - Design and development of Spindle, an efficient large-scale MT MM model training system.
   date: 2023 - 2024
+
+# - Design and development of efficient large-scale MT MM model training system, Spindle.
 
 # - name: Beijing Academy of Artificial Intelligence (BAAI)
 #   logo: /assets/images/badges/Baai.png
