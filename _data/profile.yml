@@ -22,28 +22,28 @@ orcid: 0009-0000-8375-493X
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. student in the School of Computer Science at <a href="https://english.pku.edu.cn/" target="_blank">Peking University (PKU)</a>, 
+    <strong>Education</strong>: I am a Ph.D. student in the School of Computer Science at <a href="https://english.pku.edu.cn/" target="_blank">Peking University (PKU)</a>, 
     where I have been studying since 2021 under the guidance of <a href="https://cuibinpku.github.io/" target="_blank">Prof. Bin Cui</a>.
     I received my Bachelor's degree from Peking University in 2021.
   </p>
   <p>
-    My research interest primarily lies in <strong>Distributed Deep/Machine Learning (DL/ML) Systems, Infrastructure for Large Language Models (LLMs)</strong>.
+    <strong>Research Interest</strong>: My research interest primarily lies in <strong>Distributed Deep/Machine Learning (DL/ML) Systems, Infrastructure for Large Language Models (LLMs)</strong>.
     Currently, I am focusing on: (1) Parallelism optimization for LLMs training; (2) Efficient long-context training; (3) Multi-task, multi-modality training acceleration; 
     (4) Memory management and communication optimization in distributed systems.
     Recently, I am also exploring: (1) Diffusion model training and inference optimization, and (2) Post-training and reinforcement learning techniques.
   </p>
   <p>
-    I have published 9 papers in top-tier CCF-A conferences and journals (4 first-authored and 2 second-authored), including ASPLOS, TKDE, VLDB, ICLR, SOSP, SIGMOD, SIGKDD, and etc.
+    <strong>Publications</strong>: I have published 9 papers in top-tier CCF-A conferences and journals (4 first-authored and 2 second-authored), including ASPLOS, TKDE, VLDB, ICLR, SOSP, SIGMOD, SIGKDD, and etc.
     <a href="publications">Details of Publications <i class="fas fa-angle-double-right"></i></a>
   </p>
   <p>
-    I am the designer, project leader, and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>, 
+    <strong>System Projects</strong>: I am the designer, project leader, and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>, 
     an open-source automatic parallel training system optimized for LLMs. 
     I am also a core developer of <a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Hetu</a>, a high-performance distributed deep learning system. 
-    <a href="showcase">Details of System projects <i class="fas fa-angle-double-right"></i></a>
+    <a href="showcase">Details of System Projects <i class="fas fa-angle-double-right"></i></a>
   </p>
   <p>
-    My works and systems have been applied in billion-scale industrial applications, such as accelerating the training of LLMs with over 100B parameters, 
+    <strong>Industrial applications</strong>: My works and systems have been applied in billion-scale industrial applications, such as accelerating the training of LLMs with over 100B parameters, 
     and has been utilized by companies like HUAWEI, ZTE, Alibaba, and etc. 
     Currently, I am also collaborating with more industrial companies to deploy and further develop these systems, such as ByteDance and Baidu.
   </p>
