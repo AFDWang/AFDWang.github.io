@@ -11,4 +11,5 @@ date: 2024-02-13 00:00:00 +0800
         <a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Hetu</a>
     </p>
     <!-- <img data-src="https://api.star-history.com/svg?repos=PKU-DAIR/Hetu&type=Date" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}"> -->
+    <p class="card-text"><small><a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Give a star!</a></small></p>
 </div>
