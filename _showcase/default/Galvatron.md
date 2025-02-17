@@ -8,15 +8,15 @@ date: 2024-02-14 00:00:00 +0800
     <h2>Hetu-Galvatron</h2>
     <hr />
     <div class="d-flex align-items-center">
-        <div class="flex-shrink-0" style="width: 20%;">
-            <img src="{{ 'assets/images/badges/Galvatron-logo.png' | relative_url }}" class="img-fluid">
-        </div>
         <div class="flex-grow-1 ms-4">
             <p>
                 I am the project leader, designer and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>.
                 Hetu-Galvatron is a high-performance automatic distributed training system designed for Transformer models, including Large Language Models (LLMs). 
                 It leverages advanced automatic parallelism techniques to deliver exceptional training efficiency, which has the following key features:
             </p>
+        </div>
+        <div class="flex-shrink-0" style="width: 20%;">
+            <img src="{{ 'assets/images/badges/Galvatron-logo.png' | relative_url }}" class="img-fluid">
         </div>
     </div>
     <!-- <div class="text-center">
