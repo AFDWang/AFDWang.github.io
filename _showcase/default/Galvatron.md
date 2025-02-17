@@ -8,8 +8,10 @@ date: 2024-02-14 00:00:00 +0800
     <h2>Hetu-Galvatron</h2>
     <hr />
     <div class="text-center">
-        <img src="{{ 'assets/images/badges/Galvatron-logo.png' | relative_url }}" class="img-fluid" style="max-width: 25%;">
+        <img src="{{ 'assets/images/badges/Galvatron-logo.png' | relative_url }}" class="img-fluid" style="max-width: 18%;">
     </div>
+    <p>
+    </p>
     <p> 
         I am the project leader, designer and main developer of <a href="https://github.com/PKU-DAIR/Hetu-Galvatron" target="_blank">Hetu-Galvatron</a>.
         Hetu-Galvatron is a high-performance automatic distributed training system designed for Transformer models, including Large Language Models (LLMs). 
@@ -63,6 +65,11 @@ date: 2024-02-14 00:00:00 +0800
         Suitable for a wide range of Transformer architectures, including language models, LLMs, vision models, multi-modality models, etc.
         (3) User-Friendly Interface
         Easy to use, even for those new to distributed training. -->
+    </p>
+    <p>
+        Hetu-Galvatron has been applied in many billion-scale DL tasks, and has been deployed by leading industrial companies, including Huawei and ZTE, to accelerate training for LLMs with up to more than 100B parameters. 
+        We are also collaborating with more companies, such as ByteDance and Baidu, to expand its use. 
+        We believe Hetu-Galvatron is well-suited for both research and industrial applications, and we welcome interested enterprises to reach out to us for potential cooperation.
     </p>
     <p>
         We welcome everyone interested in efficient distributed training techniques and parallelism optimization to use Hetu-Galvatron, and contribute codes, create issues or pull requests to Hetu-Galvatron.
