@@ -8,7 +8,7 @@ date: 2024-02-13 00:00:00 +0800
     <h2>Hetu</h2>
     <hr />
     <div class="text-center">
-        <img src="{{ 'assets/images/badges/hetu.png' | relative_url }}" class="img-fluid" style="max-width: 18%;">
+        <img src="{{ 'assets/images/badges/hetu.png' | relative_url }}" class="img-fluid" style="max-width: 22%;">
     </div>
     <p>
     </p>
