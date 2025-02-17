@@ -7,6 +7,11 @@ date: 2024-02-13 00:00:00 +0800
 <div class="p-4">
     <h2>Hetu</h2>
     <hr />
+    <div class="text-center">
+        <img src="{{ 'assets/images/badges/hetu.png' | relative_url }}" class="img-fluid" style="max-width: 18%;">
+    </div>
+    <p>
+    </p>
     <p>
         I am a core developer of <a href="https://github.com/PKU-DAIR/Hetu" target="_blank">Hetu</a>.
         Hetu is a high-performance distributed deep learning system targeting trillions of parameters DL model training, developed and open-sourced by DAIR Lab at Peking University. 
