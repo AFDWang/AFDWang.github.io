@@ -4,7 +4,7 @@ navbar_name: "Yujie Wang | 王驭捷"
 
 positions:
 - logo: /assets/images/badges/PKU.png  # Logo is optional
-  name: A fourth-year Ph.D. candidate in <a href="https://english.pku.edu.cn/" target="_blank">Peking University (PKU)</a>
+  name: A Fourth-year Ph.D. Candidate in <a href="https://english.pku.edu.cn/" target="_blank">Peking University (PKU)</a>
 # - name: Position 2 without logo
 
 
@@ -32,7 +32,7 @@ short_bio: >-
     My research interest primarily lies in <strong>Distributed Deep/Machine Learning (DL/ML) Systems, Infrastructure for Large Language Models (LLMs)</strong>.
     Currently, I am focusing on: (1) Parallelism optimization for LLMs training; (2) Efficient long-context training; (3) Multi-task, multi-modality training acceleration; 
     (4) Memory management and communication optimization in distributed systems.
-    Recently, I am also exploring: (1) Diffusion model training and inference optimization, (2) Post-training and reinforcement learning techniques.
+    In the near future, I will also explore: (1) Diffusion model training and inference optimization, (2) Post-training and reinforcement learning techniques.
   </p>
   <p>
     <strong>Publications</strong> <br/> 
