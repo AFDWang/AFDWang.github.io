@@ -8,7 +8,7 @@ date: 2024-02-14 00:00:00 +0800
     <h2>Hetu-Galvatron</h2>
     <hr />
     <div class="d-flex align-items-center">
-        <div class="flex-shrink-0" style="width: 30%;">
+        <div class="flex-shrink-0" style="width: 20%;">
             <img src="{{ 'assets/images/badges/Galvatron-logo.png' | relative_url }}" class="img-fluid">
         </div>
         <div class="flex-grow-1 ms-4">
