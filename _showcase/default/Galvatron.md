@@ -40,7 +40,7 @@ date: 2024-02-14 00:00:00 +0800
                         Incorporate multiple popular parallelism dimensions of distributed training, including:
                         <ul>
                             <li>DP (Data Parallelism)</li>
-                            <li>SDP (Sharded Data Parallelism, support both ZeRO-2 & ZeRO-3)</li>
+                            <li>SDP (Sharded Data Parallelism, support both ZeRO-1 & ZeRO-2 & ZeRO-3)</li>
                             <li>PP (Pipeline Parallelism, support both GPipe & Pipedream-flush / 1F1B-flush)</li>
                             <li>TP (Tensor Parallelism)</li>
                             <li>CKPT (Activation Checkpointing) as a special parallelism dimension</li>
