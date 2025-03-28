@@ -20,6 +20,7 @@ authors:
   - Faming Wu
   - Bin Cui
 links:
+  Paper: https://dl.acm.org/doi/10.1145/3676641.3715998
   Arxiv: https://arxiv.org/abs/2412.01523
   Code: https://github.com/PKU-DAIR/Hetu-Galvatron
 ---

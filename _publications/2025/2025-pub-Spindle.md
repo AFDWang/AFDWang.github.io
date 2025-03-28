@@ -19,6 +19,7 @@ authors:
   - Yong Li
   - Bin Cui
 links:
+  Paper: https://dl.acm.org/doi/10.1145/3676641.3715992
   Arxiv: https://arxiv.org/abs/2409.03365
 ---
 
