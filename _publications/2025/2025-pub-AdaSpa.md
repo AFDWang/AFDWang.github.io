@@ -1,5 +1,5 @@
 ---
-title:          ""
+title:          "Training-free and Adaptive Sparse Attention for Efficient Long Video Generation"
 date:           2025-01-09 00:00:00 +0800
 selected:       false
 pub:            "<strong><span style='color: blue'>[Under Review]</span></strong>"
