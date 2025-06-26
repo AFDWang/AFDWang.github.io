@@ -2,7 +2,7 @@
 title:          "Training-free and Adaptive Sparse Attention for Efficient Long Video Generation"
 date:           2025-01-09 00:00:00 +0800
 selected:       false
-pub:            "<strong><span style='color: blue'>[Under Review]</span></strong>"
+pub:            "<strong><span style='color: blue'>[ICCV 2025 (CCF-A) | Fourth Author]</span></strong> International Conference on Computer Vision 2025"
 pub_date:       "2025"
 
 abstract: >-
